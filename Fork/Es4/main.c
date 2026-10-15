@@ -56,6 +56,7 @@ int main(void) {
             }
         } else {
             perror("il figlio non e' terminato correttamente");
+
             exit(-1);
         }
     }
