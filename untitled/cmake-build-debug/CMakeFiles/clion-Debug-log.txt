@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\ASUS\Desktop\ITISROSSI\4Rossi\TPSIT\CTpsit\untitled Select CMakeLists.txt
