@@ -55,6 +55,7 @@ int main(void) {
             perror("Errore apertura FIFO in scrittura");
             exit(1);
         }
+
         printf("[Filtro] Connesso. Filtro i numeri pari...\n");
 
         int num;
