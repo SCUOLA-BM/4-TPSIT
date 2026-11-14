@@ -153,30 +153,6 @@ collettore.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Es3.dir/build.make CMakeFiles/Es3.dir/collettore.c.s
 .PHONY : collettore.c.s
 
-main.o: main.cpp.o
-.PHONY : main.o
-
-# target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Es3.dir/build.make CMakeFiles/Es3.dir/main.cpp.o
-.PHONY : main.cpp.o
-
-main.i: main.cpp.i
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Es3.dir/build.make CMakeFiles/Es3.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Es3.dir/build.make CMakeFiles/Es3.dir/main.cpp.s
-.PHONY : main.cpp.s
-
 produttore_filtro.o: produttore_filtro.c.o
 .PHONY : produttore_filtro.o
 
@@ -213,9 +189,6 @@ help:
 	@echo "... collettore.o"
 	@echo "... collettore.i"
 	@echo "... collettore.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
 	@echo "... produttore_filtro.o"
 	@echo "... produttore_filtro.i"
 	@echo "... produttore_filtro.s"

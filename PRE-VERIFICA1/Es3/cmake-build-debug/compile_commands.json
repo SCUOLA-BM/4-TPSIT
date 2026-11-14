@@ -1,12 +1,6 @@
 [
 {
   "directory": "/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug",
-  "command": "/usr/bin/c++   -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles/Es3.dir/main.cpp.o -c /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/main.cpp",
-  "file": "/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/main.cpp",
-  "output": "CMakeFiles/Es3.dir/main.cpp.o"
-},
-{
-  "directory": "/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug",
   "command": "/usr/bin/cc   -g -fdiagnostics-color=always -o CMakeFiles/Es3.dir/produttore_filtro.c.o -c /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/produttore_filtro.c",
   "file": "/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/produttore_filtro.c",
   "output": "CMakeFiles/Es3.dir/produttore_filtro.c.o"

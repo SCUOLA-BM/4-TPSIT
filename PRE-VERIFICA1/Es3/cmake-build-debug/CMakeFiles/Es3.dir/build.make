@@ -69,24 +69,10 @@ include CMakeFiles/Es3.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Es3.dir/flags.make
 
-CMakeFiles/Es3.dir/main.cpp.o: CMakeFiles/Es3.dir/flags.make
-CMakeFiles/Es3.dir/main.cpp.o: /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/main.cpp
-CMakeFiles/Es3.dir/main.cpp.o: CMakeFiles/Es3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Es3.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Es3.dir/main.cpp.o -MF CMakeFiles/Es3.dir/main.cpp.o.d -o CMakeFiles/Es3.dir/main.cpp.o -c /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/main.cpp
-
-CMakeFiles/Es3.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Es3.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/main.cpp > CMakeFiles/Es3.dir/main.cpp.i
-
-CMakeFiles/Es3.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Es3.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/main.cpp -o CMakeFiles/Es3.dir/main.cpp.s
-
 CMakeFiles/Es3.dir/produttore_filtro.c.o: CMakeFiles/Es3.dir/flags.make
 CMakeFiles/Es3.dir/produttore_filtro.c.o: /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/produttore_filtro.c
 CMakeFiles/Es3.dir/produttore_filtro.c.o: CMakeFiles/Es3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Es3.dir/produttore_filtro.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Es3.dir/produttore_filtro.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Es3.dir/produttore_filtro.c.o -MF CMakeFiles/Es3.dir/produttore_filtro.c.o.d -o CMakeFiles/Es3.dir/produttore_filtro.c.o -c /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/produttore_filtro.c
 
 CMakeFiles/Es3.dir/produttore_filtro.c.i: cmake_force
@@ -100,7 +86,7 @@ CMakeFiles/Es3.dir/produttore_filtro.c.s: cmake_force
 CMakeFiles/Es3.dir/collettore.c.o: CMakeFiles/Es3.dir/flags.make
 CMakeFiles/Es3.dir/collettore.c.o: /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/collettore.c
 CMakeFiles/Es3.dir/collettore.c.o: CMakeFiles/Es3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Es3.dir/collettore.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Es3.dir/collettore.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Es3.dir/collettore.c.o -MF CMakeFiles/Es3.dir/collettore.c.o.d -o CMakeFiles/Es3.dir/collettore.c.o -c /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/collettore.c
 
 CMakeFiles/Es3.dir/collettore.c.i: cmake_force
@@ -113,19 +99,17 @@ CMakeFiles/Es3.dir/collettore.c.s: cmake_force
 
 # Object files for target Es3
 Es3_OBJECTS = \
-"CMakeFiles/Es3.dir/main.cpp.o" \
 "CMakeFiles/Es3.dir/produttore_filtro.c.o" \
 "CMakeFiles/Es3.dir/collettore.c.o"
 
 # External object files for target Es3
 Es3_EXTERNAL_OBJECTS =
 
-Es3: CMakeFiles/Es3.dir/main.cpp.o
 Es3: CMakeFiles/Es3.dir/produttore_filtro.c.o
 Es3: CMakeFiles/Es3.dir/collettore.c.o
 Es3: CMakeFiles/Es3.dir/build.make
 Es3: CMakeFiles/Es3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Es3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Es3"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Es3.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

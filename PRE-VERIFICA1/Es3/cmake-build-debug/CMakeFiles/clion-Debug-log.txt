@@ -1,4 +1,4 @@
 /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3 -B /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug
--- Configuring done (0.1s)
--- Generating done (0.3s)
+-- Configuring done (5.1s)
+-- Generating done (2.1s)
 -- Build files have been written to: /mnt/c/Users/ASUS/Desktop/ITISROSSI/4Rossi/TPSIT/CTpsit/PRE-VERIFICA1/Es3/cmake-build-debug

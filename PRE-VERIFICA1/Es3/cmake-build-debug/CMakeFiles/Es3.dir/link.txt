@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/Es3.dir/main.cpp.o CMakeFiles/Es3.dir/produttore_filtro.c.o CMakeFiles/Es3.dir/collettore.c.o -o Es3 
+/usr/bin/cc -g CMakeFiles/Es3.dir/produttore_filtro.c.o CMakeFiles/Es3.dir/collettore.c.o -o Es3 
