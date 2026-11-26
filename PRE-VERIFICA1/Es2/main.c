@@ -23,7 +23,7 @@ int main(void) {
         perror("\nErrore");
         exit(-1);
     }
-    if (pid == 0) { //processo padre
+    if (pid == 0) { //processo figlio
 
         int num[n];
 
